@@ -50,6 +50,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [Have I Been Trained?](https://haveibeentrained.com/) | Checks whether your artwork has been used to train AI models without your permission | ✅ | Free |
 | [Lexica](https://lexica.art/) | A database of free AI art, annotated with prompts to help you generate similar pieces. Good for drawing reference. | ✅ | Free |
 | [Roblox GUI Maker](https://robloxguimaker.dev/) | Free AI-assisted Roblox Studio ScreenGui, HUD, menu, and Lua UI starter-code planner | ✅ | Free |
+| [RespawnStack](https://respawnstack.com) | Free reference comparing AI game-dev tools on pricing, commercial-use terms, and output ownership | ✅ | Free |
 | [This Person Does Not Exist](https://thispersondoesnotexist.com/) | Generates a new, unique face every time you click it — a totally unique visual reference for a face | ✅ | Free |
 | [Unity Muse](https://unity.com/products/muse) | Unity's suite of AI products         | ✅        | Commercial   |
 
